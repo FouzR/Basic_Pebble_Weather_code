@@ -1,0 +1,5 @@
+{
+    "WEATHER_REQUEST": 10002,
+    "weather_condition": 10001,
+    "weather_location": 10000
+}

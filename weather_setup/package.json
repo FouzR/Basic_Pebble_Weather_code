@@ -1,0 +1,38 @@
+{
+  "name": "weather_setup",
+  "author": "FouzR",
+  "version": "1.0.0",
+  "keywords": [
+    "pebble-app"
+  ],
+  "private": true,
+  "dependencies": {
+    "@rebble/clay": "^1.0.8"
+  },
+  "pebble": {
+    "displayName": "weather_setup",
+    "uuid": "f3f575dc-60b8-4357-9a75-8e0812957156",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "aplite",
+      "basalt",
+      "chalk",
+      "diorite",
+      "emery",
+      "flint",
+      "gabbro"
+    ],
+    "watchapp": {
+      "watchface": false
+    },
+    "messageKeys": [
+      "weather_location",
+      "weather_condition",
+"WEATHER_REQUEST"
+    ],
+    "resources": {
+      "media": []
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+    "displayName": "weather_setup",
+    "uuid": "f3f575dc-60b8-4357-9a75-8e0812957156",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk",
+        "diorite",
+        "emery",
+        "flint",
+        "gabbro"
+    ],
+    "watchapp": {
+        "watchface": false
+    },
+    "messageKeys": {
+        "weather_location": 10000,
+        "weather_condition": 10001,
+        "WEATHER_REQUEST": 10002
+    },
+    "resources": {
+        "media": []
+    },
+    "name": "weather_setup",
+    "shortName": "weather_setup",
+    "longName": "weather_setup",
+    "versionLabel": "1.0",
+    "companyName": "MakeAwesomeHappen",
+    "appKeys": {
+        "weather_location": 10000,
+        "weather_condition": 10001,
+        "WEATHER_REQUEST": 10002
+    },
+    "capabilities": [
+        "configurable"
+    ]
+}
