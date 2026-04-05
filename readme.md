@@ -2,6 +2,8 @@
 
 Very Basic weather "app" that shows the current weather condition of your location or the location set through Clay settings.
 
+Thanks to https://github.com/peerdavid/pebble-mesh for the JS section. Was quite lost otherwise xD
+
 
 This code has 2 main parts. The C side, and the JS side. The JS side handles the Open-meteo Communication, while the C side just displays it on the display.
 
