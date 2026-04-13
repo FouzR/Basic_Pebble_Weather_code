@@ -23,9 +23,10 @@ module.exports = [
             }
         }
     ],
-    {
-        type: "submit",
-        defaultValue: "Save Settings"
-    }
+},
+{
+    type: "submit",
+    defaultValue: "Save Settings"
 }
+
 ];
